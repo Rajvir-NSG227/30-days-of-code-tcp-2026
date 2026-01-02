@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECH FEST</title>
+</head>
+    <h1>EVENT-FORM</h1>
+<body>
+    <h2>TIME TABLE</h2>
+        <table border="">
+            <thead>
+                <tr>
+                    <th>EVENT</th>
+                    <th>VENUE</th>
+                    <th>DESCRIPTION</th>
+                    <th>TIME</th>
+                </tr>
+            </thead>
+            <TBOdy>
+                <tr>
+                    <th>EVENT A</th>
+                    <th>A BLOCK</th>
+                    <th>fWDWSA</th>
+                    <th>00:00</th>
+                </tr>
+                <tr>
+                    <th>EVENT B</th>
+                    <th>B BLOCK</th>
+                    <th>kAFAEAA</th>
+                    <th>00:00</th>
+                </tr>
+                <tr>
+                    <th>EVENT C</th>
+                    <th>C BLOCK</th>
+                    <th>AAFFA</th>
+                    <th>00:00</th>
+                </tr>
+                <tr>
+                    <th>EVENT D</th>
+                    <th>D BLOCK</th>
+                    <th>AFFAF</th>
+                    <th>00:00</th>
+                </tr>
+                <tr>
+                    <th>EVENT E</th>
+                    <th>E BLOCK</th>
+                    <th>AFFFAF</th>
+                    <th>00:00</th>
+                </tr>
+            </TBOdy>
+    </table>
+    <hr>
+    <h2>REGISTRATION FORM</h2>
+    <h3>PERSONAL INFO</h3>
+        <form action="post">
+            <label for="NAME" >NAME</label>
+            <input type="text",id="NAME", name="NAME", placeholder="ENTER YOUR NAME"><br><br>
+            <label for="EMAIL"  >EMAIL</label>
+            <input type="email",id="EMAIL", name="EMAIL", placeholder="ENTER YOUR EMAIL"><br><br>
+            <label for="PHONE"  >PHONE</label>
+            <input type="tel",id="PHONE", name="PHONE", placeholder="ENTER YOUR PHONE NUMBER"><br><br>
+            <label for="DATE">ADMISSION DATE</label>
+            <input type="DATE" name="ADMISSION DATE" id="ADMISSION DATE", placeholder="YYYY-MM-DD"><br><br>
+            <h4>GENDER</h4>
+                <input type="radio" name="GENDER" id="MALE" value="MALE">
+                <label for="MALE">MALE</label>
+                <input type="radio" name="GENDER" id="FEMALE" value="FEMALE">
+                <label for="FEMALE">FEMALE</label>
+                <input type="radio" name="GENDER" id="OTHERS" value="OTHERS">
+                <label for="OTHERS">OTHERS</label><br><br>
+            <h4>SELECT EVENT TO PARTICIPATE</h4>
+            <div>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT A</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT B</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT C</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT D</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT E</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT F</label><br><br>
+                <input type="checkbox" id = "participate" name="participate" value="participate">
+                <label for="participate">EVENT G</label><br><br>
+            </div>
+            <div>
+                <textarea name="COMMENTS" rows="4" cols="60">Enter your comments....</textarea>
+            </div><br><br>
+            <input type="submit" value="SUBMIT">
+
+    </form>    
+</body>
+</html>
