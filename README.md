@@ -18,9 +18,10 @@ DAY -3
 
 
 DAY -4
-https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235516.png
-https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235509.png
-https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235502.png
+![Day 4 1](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235516.png)
+![Day 4 2](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235509.png)
+![Day 4 3](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235502.png)
+
 
 
 
