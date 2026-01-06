@@ -28,6 +28,11 @@ DAY-5
 ![WhatsApp Image 2026-01-05 at 23 50 40](https://github.com/user-attachments/assets/c4b42593-d7de-40a8-99bd-91aef072920f)
 ![WhatsApp Image 2026-01-05 at 23 51 03](https://github.com/user-attachments/assets/11bad686-3747-465b-b027-e063e5c50c17)
 
+DAY - 6
+<img width="1849" height="926" alt="image" src="https://github.com/user-attachments/assets/5c9db057-865f-4420-b2a2-3ac5f4f60749" />
+
+
+
 
 
 
