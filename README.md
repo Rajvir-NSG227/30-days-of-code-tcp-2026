@@ -12,6 +12,7 @@ DAY-2
 DAY -3
 ![WhatsApp Image 2026-01-03 at 20 41 43](https://github.com/user-attachments/assets/284fc7a1-d33c-405c-aa43-70782ede78c2)
 ![WhatsApp Image 2026-01-03 at 20 42 14](https://github.com/user-attachments/assets/0399a85a-8db6-4a09-bb1a-8957c8e8450d)
+
 ![WhatsApp Image 2026-01-03 at 20 42 46](https://github.com/user-attachments/assets/568b5c3b-89b3-47fe-bf23-36fcb34d123e)
 ![WhatsApp Image 2026-01-03 at 20 43 24](https://github.com/user-attachments/assets/fa237426-bc8c-4a2e-8084-00040d15ca95)
 
@@ -20,7 +21,14 @@ DAY -3
 DAY -4
 ![Day 4 1](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235516.png)
 ![Day 4 2](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235509.png)
-![Day 4 3](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235502.png)
+![Day 4 3](https://github.com/Rajvir-NSG227/30-days-of-code-tcp-2026/blob/main/Screenshot%202026-01-04%20235502.png)\
+
+DAY-5
+![WhatsApp Image 2026-01-05 at 23 50 22](https://github.com/user-attachments/assets/3d3790e8-1134-4b1e-88a9-fe9a558c2b0f)
+![WhatsApp Image 2026-01-05 at 23 50 40](https://github.com/user-attachments/assets/c4b42593-d7de-40a8-99bd-91aef072920f)
+![WhatsApp Image 2026-01-05 at 23 51 03](https://github.com/user-attachments/assets/11bad686-3747-465b-b027-e063e5c50c17)
+
+
 
 
 
