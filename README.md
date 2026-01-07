@@ -31,6 +31,11 @@ DAY-5
 DAY - 6
 <img width="1849" height="926" alt="image" src="https://github.com/user-attachments/assets/5c9db057-865f-4420-b2a2-3ac5f4f60749" />
 
+DAY - 7
+<img width="1817" height="740" alt="image" src="https://github.com/user-attachments/assets/647dc9d0-0b2a-48ed-b9fa-6abd6c007d28" />
+
+
+
 
 
 
