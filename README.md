@@ -40,6 +40,11 @@ DAY - 8
 DAY - 9
 <img width="1865" height="777" alt="image" src="https://github.com/user-attachments/assets/6fc09f03-9fca-4933-be6f-8a0728c30642" />
 
+DAy-10
+<img width="1806" height="847" alt="image" src="https://github.com/user-attachments/assets/59170047-678d-4f63-a07c-4de948030106" />
+
+
+
 
 
 
